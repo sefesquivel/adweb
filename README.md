@@ -1,3 +1,3 @@
 # adweb
 
-# materials for the course 6ADWEB
+### materials for the course 6ADWEB
