@@ -1,6 +1,6 @@
-# Instructions
+### Instructions
 
-##STEP 1: FRONTEND
+## STEP 1: FRONTEND
 Create a new angular project with name FinalsActivity
 Generate the following components inside the components folder: add-book, book-detail, books-list
 Generate the service inside the service folder, call it 'crud'
