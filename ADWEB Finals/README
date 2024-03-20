@@ -1,10 +1,19 @@
-### Instructions
+# Instructions
+
+## INSTALL ALL DEPENDENCIES
+
+Node Package Manager essentials
+npm install
+
+Angular Material
+ng add @angular/material
+
 
 ## STEP 1: FRONTEND
-Create a new angular project with name FinalsActivity
-Generate the following components inside the components folder: add-book, book-detail, books-list
-Generate the service inside the service folder, call it 'crud'
-Still inside the service folder, create a new file Book.ts
+  - Create a new angular project with name FinalsActivity
+  - Generate the following components inside the components folder: add-book, book-detail, books-list
+  - Generate the service inside the service folder, call it 'crud'
+  - Still inside the service folder, create a new file Book.ts
 
 ## STEP 2: BACKEND
 Inside src create a new folder 'node-backend'
