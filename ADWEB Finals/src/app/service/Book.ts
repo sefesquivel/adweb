@@ -3,4 +3,5 @@ export class Book {
     title!: String;
     price!: String;
     description!: String;
+    book_type!: String;
 }
