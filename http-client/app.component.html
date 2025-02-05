@@ -1,0 +1,13 @@
+
+<div class="container">
+  <h1>{{ title }}</h1>
+  
+  <div class="user-list">
+    <div *ngFor="let user of httpusers" class="user-item">
+      <h3>{{ user.name }}</h3>
+      <p>Email: {{ user.email }}</p>
+      <p>Username: {{ user.username }}</p>
+    </div>
+  </div>
+</div>
+<router-outlet />
